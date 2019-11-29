@@ -9,7 +9,7 @@
 | SSH Encryption| knowledge | - | [External](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 
 ## Configuration
-* `# ssh-keygen -t ed25519 -C "info@aredots.com"` Generate a new ECD25519 SSH key pair
+* `# ssh-keygen -t ed25519 -C "costin@aredots.com"` Generate a new ECD25519 SSH key pair
     + `default` Default path
     + `default` No passphrase
     + `default` Confirm passphrase
