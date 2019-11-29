@@ -51,20 +51,23 @@
 + New user
 
 
-[Keymap Configuration](/doc/en/operating_system/arch_install/keymap_configuration.md) Set the keymap layout  
+[Keymap Configuration](doc/en/operating_system/arch_install/keymap_configuration.md) Set the keymap layout  
 
-### System audio configuration
+#### System audio configuration
 #### System video configuration
 
 (TODO) - Configure desktop environment
 
 ## Application
-* [git](/doc/en/application/git.md) → Version Control  
-* Task-Warrior → Task manager and todo list
-* GNU Emacs → Text editor built in ELISP by Richard Stallman.  
-* GNUs → Email client, News reader, supports RSS.  
+### CLI (no GUI)
+[GIT](doc/en/application/git/README.md) is a version control system apllication.  [Taskwarrior](doc/en/application/taskwarrior/installation.md) is a task manager, todo list app
+
+[GNU Emacs](doc/en/application/emacs/README.md)is a text editor built in ELISP, created by Richard Stallman
+
+(TODO) [GNUs](doc/en/application/gnus/README.md) is an Email client, News reader, supports RSS.
+
 
 ## Utilities
-* [Welcome Message](/doc/en/utilities/welcome_message.md) → Display a welcome message at user login.  
-* [Multiple Virtual Terminals](/doc/en/utilities/multi_virtual_consoles.md) → Create more virtual terminal accessible with *ALT + F1-12*  
-* [Copy terminal stdout](/doc/en/utilities/clipboard.md) → Using xclip to copy and paste the ouput from comand line.  
+* [Welcome Message](doc/en/utilities/welcome_message.md) → Display a welcome message at user login.  
+* [Multiple Virtual Terminals](doc/en/utilities/multi_virtual_consoles.md) → Create more virtual terminal accessible with *ALT + F1-12*  
+* [Copy terminal stdout](doc/en/utilities/clipboard.md) → Using xclip to copy and paste the ouput from comand line.  
