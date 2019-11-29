@@ -3,11 +3,11 @@
 ### Installation
 #### Arch Linux
 First of all download the images in a safe mode and verify the originality of the copy:
-* [Download ISO + Verify ISO](doc/en/operating_system/arch_linux/installation/prepare_image.md
+* [Download ISO + Verify ISO](doc/en/operating_system/arch_linux/installation/prepare_image.md)
 
 
-Chose how to partition your dink and how to setup your file system:  
-* [BIOS + MBR + LUKS2 + KEYFILE + LVM](doc/en/operating_system/arch_linux/installation/bios-mbr-luks2-lvm.md
+Chose how to partition the disk and how to setup the file system:  
+* [BIOS + MBR + LUKS2 + KEYFILE + LVM](doc/en/operating_system/arch_linux/installation/bios-mbr-luks2-lvm.md)
   + With */boot* on external device
   + With GRUB as bootloader
   + With BIOS for old mother boards
@@ -17,7 +17,7 @@ Chose how to partition your dink and how to setup your file system:
   + With LVM on LUKS2
   + With disk cleaning
   + With disk randomize data
-* [UEFI + GPT + LUKS2 + LVM](doc/en/operating_system/arch_linux/installation/uefi-gpt-luks2-lvm.md
+* [UEFI + GPT + LUKS2 + LVM](doc/en/operating_system/arch_linux/installation/uefi-gpt-luks2-lvm.md)
   + With */boot* on external device
   + (TODO) With keyfile on external device as additional passphrase for fast booting
   + With GRUB as bootloader
@@ -27,7 +27,7 @@ Chose how to partition your dink and how to setup your file system:
   + With LVM on LUKS2
   + With disk cleaning
   + With disk randomize data
-* [BIOS + GPT + LUKS2 + LVM](doc/en/operating_system/arch_linux/installation/todo_bios-gpt-luks2-lvm-systemd.md
+* [BIOS + GPT + LUKS2 + LVM](doc/en/operating_system/arch_linux/installation/todo_bios-gpt-luks2-lvm-systemd.md)
   + With */boot* on external device
   + With GRUB as bootloader
   + With BIOS for old mother boards
