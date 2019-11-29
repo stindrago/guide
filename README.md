@@ -56,7 +56,8 @@ Chose how to partition the disk and how to setup the file system:
 
 ## Application
 ### CLI (no GUI)
-* [GIT](doc/en/application/git/README.md) is a version control system apllication. * [Taskwarrior](doc/en/application/taskwarrior/installation.md) is a task manager, todo list app
+* [GIT](doc/en/application/git/README.md) is a version control system apllication.
+* [Taskwarrior](doc/en/application/taskwarrior/installation.md) is a task manager, todo list app
 * [GNU Emacs](doc/en/application/emacs/README.md) is a text editor built in ELISP, created by Richard Stallman
 * (TODO) [GNUs](doc/en/application/gnus/README.md) is an Email client, News reader, supports RSS.
 
