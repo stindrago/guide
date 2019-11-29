@@ -1,5 +1,3 @@
-# gitlab
-
 ## Dependencies
 
 | Name    | Type    | Source | Guide |
